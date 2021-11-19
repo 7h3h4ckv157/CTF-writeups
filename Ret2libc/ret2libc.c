@@ -1,3 +1,9 @@
+/* #!usr/env/c 
+
+(Disable ASLR) 
+
+*/
+
 #include <stdio.h>
 
 void overflow() {
